@@ -1,8 +1,28 @@
 Pandas stands for panel data and is the core library for 
 the data manipulation and data analysis
 
+                           or
+
+
+Pandas is a software library written for the Python programming 
+language for data manipulation and analysis.
+
+
 It consists of single and multi- dimensional 
 data- structures for data- manipulation
+
+
+features of pandas:
+    Pandas is well suited for many different kinds of data:
+         1.Tabular data with heterogeneously-typed columns.
+         2.Ordered and unordered time series data.
+         3.Arbitrary matrix data with row and column labels
+         4.Any other form of observational / statistical data sets.
+           The data actually need not be labeled at all to be placed into a pandas data structure
+
+
+
+
 
 
 
