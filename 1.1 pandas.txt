@@ -1,0 +1,23 @@
+Pandas stands for panel data and is the core library for 
+the data manipulation and data analysis
+
+It consists of single and multi- dimensional 
+data- structures for data- manipulation
+
+
+
+
+
+   single- dimensional is called series object
+   multi- dimensional is called data frame
+
+
+   ************************
+   *  series object       *    is a 1-D labelled array
+   ************************
+
+
+
+************************
+   *  Dataframe       *   is the 2-D labelled data-structure
+************************  it consists of rows and columns
